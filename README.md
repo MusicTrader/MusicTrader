@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MusicTrader
+- 👋 Hi, I’m @musictrader
 - 👀 I’m interested in product creation!
 - 🌱 I’m currently learning ReactJS, TypeScript, TailwindCSS
 - 💞️ I’m looking to collaborate on a startup that I'm working on!
