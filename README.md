@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @musictrader
 - 👀 I’m interested in product creation!
-- 🌱 I’m currently learning ReactJS, TypeScript, TailwindCSS
+- 🌱 I’m currently using the VILT stack: Vue + Inertia + Laravel + Tailwind
 - 💞️ I’m looking to collaborate on a startup that I'm working on!
 - 📫 How to reach me: m.dylan.snowden@gmail.com
 
